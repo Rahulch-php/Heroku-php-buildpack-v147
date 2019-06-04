@@ -137,7 +137,7 @@ export PATH=${OUT_PREFIX}/bin:$PATH
 		--with-kerberos \
 	--with-pgsql \
 	--with-pdo-pgsql \
-	--with-readline \
+#	--with-readline \
 	--enable-sockets \
 	--enable-zip \
 	--with-zlib \

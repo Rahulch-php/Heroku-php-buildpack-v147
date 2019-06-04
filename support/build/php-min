@@ -43,7 +43,7 @@ export PATH=${OUT_PREFIX}/bin:$PATH
 	--without-pear \
 	--disable-pdo \
 	--without-pdo-sqlite \
-	--with-readline \
+#	--with-readline \
 	--disable-session \
 	--disable-simplexml \
 	--without-sqlite3 \
